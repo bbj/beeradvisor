@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "BeerAdvisor"
 include ':app'
 include ':linearlayoutexample'
+include ':framelayoutexample'
+include ':scrollviewexample'
